@@ -1,0 +1,16 @@
+Pros:
+- well documented
+- great control over every step of learning process
+- easily converts data types between well known libraries
+- high modularity by using Module blocks
+- many ready to use class for dataloading, loss functions, optimizers etc
+- easier and more flexible trained model loading
+- easier gpu configuration on local machine
+
+Cons:
+- requires greater understanding of the whole ml process
+- more coding is needed for simpler tasks like logging
+
+Perf:
+MSELoss, Adam: ('0%', '26%', 1188, 1524, 2712)
+
